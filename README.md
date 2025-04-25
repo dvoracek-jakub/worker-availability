@@ -6,7 +6,7 @@ This tool is designed for managing the current working status of individual empl
 
 
 ### Setup:
-To add a new employee, edit the `statuses.json` file. Here, you should also specify the GitHub avatar ID of the employee (the number at the end of the URL, e.g., [https://avatars.githubusercontent.com/u/**45931076**](https://avatars.githubusercontent.com/u/**45931076**)
+To add a new employee, edit the `statuses.json` file. Here, you can also specify the GitHub avatar ID of the employee (the number at the end of the URL, e.g., [https://avatars.githubusercontent.com/u/**45931076**](https://avatars.githubusercontent.com/u/**45931076**)
 ).
 
 ![image](https://github.com/user-attachments/assets/2c9dd3a9-4fe9-4421-9774-6d0cf2e4a529)
